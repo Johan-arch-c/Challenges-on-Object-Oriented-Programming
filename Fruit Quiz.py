@@ -8,7 +8,7 @@ class FruitQuiz:
             print("what is the color of{}".format(fruit))
             user_answer=input()
             if(user_answer.lower()==color):
-                print("correct answer")
+                print("correcthw.py answer")
             else:
                 print("wrong answer")
             option=int(input("enter 0,if you want to play again otherwise enter 1:"))
